@@ -39,6 +39,7 @@ print(type(list))
 print(type(dict))
 print(type(tuple))
 print(type(set))
+print()
 
 # 숫자형 연산자
 """
@@ -106,6 +107,7 @@ d = 12.7
 
 # 타입 출력
 print(type(a), type(b), type(c), type(d))
+print()
 
 # 형 변환
 print(float(b))
@@ -120,10 +122,10 @@ print()
 
 # 수치 연산 함수
 print(abs(-7))
-
 x, y = divmod(100, 8)
 print(x, y)
 print(pow(5, 3), 5 ** 3)
+print()
 
 # 외부 모듈
 import math

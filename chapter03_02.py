@@ -41,6 +41,7 @@ print('I\'m Boy')
 print('a\tb')
 print('a\nb')
 print('a\"\"b')
+print()
 
 escape_str1 = "Do you have a \"retro games\"?"
 print(escape_str1)
@@ -91,6 +92,7 @@ print()
 print(str(66), type(str(66)))
 print(str(10.1))
 print(str(True), type(str(True)))
+print()
 
 # 문자열 함수(upper, isalnum, startswith, count, endswith, isalpha...)
 print("Capitalize:", str_o1.capitalize())
@@ -98,6 +100,7 @@ print("endswith?:", str_o2.endswith("!"))
 print("replace", str_o1.replace("thon", ' Good'))
 print("sorted: ", sorted(str_o1))
 print("split: ", str_o4.split(' '))
+print()
 
 # 반복(시퀀스)
 im_str = "Good Boy!"
@@ -121,6 +124,7 @@ print(str_sl[-5:])
 print(str_sl[1:-2])
 print(str_sl[::2])
 print(str_sl[::-1])
+print()
 
 # 아스키 코드(또는 유니코드)
 a = 'z'

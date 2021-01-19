@@ -19,29 +19,34 @@ print('d - ', d[0] + d[1] + d[1])
 print('d - ', d[-1])
 print('e - ', e[-1][1])
 print('e - ', list(e[-1][1]))
+print()
 
 # 슬라이싱
 print('>>>>>')
 print('d - ', d[0:3])
 print('d - ', d[2:])
 print('e - ', e[-1][1:3])
+print()
 
 # 리스트 연산
 print('>>>>>')
 print('c + d', c + d)
 print('c * 3', c * 3)
 print("'Test' + c[0]", 'Test' + str(c[0]))
+print()
 
 # 값 비교
 print(c == c[:3] + c[3:])
 print(c)
 print(c[:3] + c[3:])
+print()
 
 # Identity(id)
 temp = c
 print(temp, c)
 print(id(temp))
 print(id(c))
+print()
 
 # 리스트 수정, 삭제
 print('>>>>>')
@@ -72,6 +77,8 @@ a.insert(2, 7)
 print('a - ', a)
 a.reverse()
 print('a - ', a)
+print()
+
 # del a[6]
 a.remove(10)
 print('a - ', a)
@@ -79,11 +86,14 @@ print('a - ', a.pop())
 print('a - ', a)
 print('a - ', a.pop())
 print('a - ', a)
+print()
+
 # 스택(lifo), 큐(fifo)
 print('a - ', a.count(4))
 ex = [8, 9]
 a.extend(ex)
 print('a - ', a)
+print()
 
 # 삭제 : remove, pop, del
 
