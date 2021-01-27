@@ -2,7 +2,6 @@
 # 파이썬 함수 및 중요성
 # 파이썬 함수식 및 람다(lambda)
 
-
 # 함수 정의 방법
 # def fuction_name(parameter):
 #     code

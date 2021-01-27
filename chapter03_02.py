@@ -2,7 +2,6 @@
 # 파이썬 문자형
 # 문자형 중요
 
-
 # 문자열 생성
 str1 = "I am Python"
 str2 = 'Python'

@@ -2,7 +2,6 @@
 # 파이썬 반복문
 # FOR 실습
 
-
 # 코딩의 핵심
 # for in <collection>
 #     <loop body>

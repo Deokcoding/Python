@@ -3,7 +3,6 @@
 # Input 사용법
 # 기본 타입(str)
 
-
 # 예제1
 # name = input("Enter Your Name : ")
 # grade = input("Enter Your Grade : ")

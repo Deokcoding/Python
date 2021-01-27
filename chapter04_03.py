@@ -2,7 +2,6 @@
 # 파이썬 반복문
 # While 실습
 
-
 # while <expr>:
 #     <statement(s)>
 
